@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\rytis\OneDrive - Kaunas University of Technology\Darbai\Lazeriai\Altium\StarWars\Prototype_REV1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=prototype_rev1-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=prototype_rev1-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=prototype_rev1-slotholes-nonplated.txt|DrillLayers=gtl,gbl

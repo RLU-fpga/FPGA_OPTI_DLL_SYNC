@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Prototype_REV1.PcbDoc   04/11/2026  13:09:16
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Prototype_REV1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Prototype_REV1-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : Prototype_REV1-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             382       PTH        49.77inch (1264.12mm)
+T2      24mil (0.6mm)                                             Round             12        PTH        6.71inch (170.42mm)
+T3      47mil (1.2mm)                                             Round             48        PTH        14.91inch (378.62mm)
+T4      79mil (2mm)                                               Round             20        PTH        14.47inch (367.49mm)
+T5      20mil (0.5mm)                                             Round             54        NPTH       11.10inch (281.95mm)
+T6      79mil (2mm)                                               Slot              14        NPTH       22.83inch (579.90mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              530
+
+Total Processing Time (hh:mm:ss) : 00:00:00

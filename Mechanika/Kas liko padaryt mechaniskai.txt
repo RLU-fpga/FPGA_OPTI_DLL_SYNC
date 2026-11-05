@@ -7,3 +7,7 @@ Per solidworks pasikurt brezini koki isivaizduoju kad tureciau CAD refrenca kai 
 Pamastyt kaip padaryt kad stendas turetu galimybe tobulet, pridet papildomu veidrodziu ar kitokiu prizmiu ar ten kazkokiu optiniu stebuklu
 Patys optiniai laikikliai pirksiu ar 3d spausdinsiu.
 dar kazko reikia bet kolkas neiisivaizduoju
+
+2026/11/06
+Susiziurejau veidrodzius filtrus ir t.t.
+Padarytas kinematinis remas veidrodziui
